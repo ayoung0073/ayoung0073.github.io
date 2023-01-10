@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme: just-the-docs/just-the-docs 
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: Ayoung's Blog
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ayoung0073.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
